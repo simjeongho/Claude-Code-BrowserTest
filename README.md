@@ -36,7 +36,7 @@
 
 # 버전 정보
 
-1. `Claude Desktop` : 1.201867 -> 7월 14일 업데이트
+1. `Claude Desktop` : `v1.20186.7` -> 7월 14일 업데이트
 2. `Claude Desktop Code` 에서 브라우저 기능을 지원한 시점은 26.07.06 ~ 10
-3. Browser 패널을 포함한 패널 레이아웃은 `Claude Desktop` `v1.2581.0` 이상 필요
+3. Browser 패널을 포함한 패널 레이아웃은 `Claude Desktop` `v1.2581.0` 이상 필요. 현재 버전 `v1.20186.7` 
 4. `Claude Desktop Cowork`에서는 `Claude Desktop Code`에서의 브라우저 탭은 없는 것 확인
